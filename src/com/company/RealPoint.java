@@ -3,7 +3,7 @@ package com.company;
 public class RealPoint {
     private double x, y;
 
-    public RealPoint(double x) {
+    public RealPoint(double x, double y) {
         this.x = x;
         this.y = y;
     }
